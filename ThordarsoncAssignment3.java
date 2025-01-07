@@ -3,7 +3,7 @@ package com.mycompany.thordarsoncassignment3;
 // Programmer name: Chelsea Thordarson
 // Thordarsoncassignment3.java
 // Assignment 3
-/* Assignment3 asks users to input 2 strings, measures the length og the strings, concatinates the 2 strings, compares the 2 strings*/
+/* Assignment3 asks users to input 2 strings, measure the length of the strings, concatenates the 2 strings, compares the 2 strings*/
 import java.util.Scanner;
 
 public class ThordarsoncAssignment3 
